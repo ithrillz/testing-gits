@@ -1,14 +1,9 @@
 body {
-  margin: 0;
-  box-sizing: border-box;
-}
-
-.background {
-  background: blue;
-  height: 100vw;
+  background: red;
 }
 
 h1 {
   color: white;
   text-align: center;
+  text-transform: uppercase;
 }
